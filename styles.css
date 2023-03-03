@@ -6,3 +6,11 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.goal-progress-value {
+	color: var(--link-color);
+}
+
+.goal-container {
+	display: contents;
+}
