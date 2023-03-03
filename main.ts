@@ -1,4 +1,4 @@
-import GoalTracker from "./src/plugin";
+import GoalTracker from "./src/plugins/base.plugin";
 
 // Remember to rename these classes and interfaces!
 
